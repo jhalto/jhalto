@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jhalto
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate Cross-Platform app developmenat
+- 📫 How to reach me zobayerarmannadim@gmail.com
+- ⚡ Hobby: chess and listen music
