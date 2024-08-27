@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jhalto
+- 👋 Hi, I’m @Md. Zobayer Arman Nadim
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate Cross-Platform app developmenat
+- 💞️ I’m looking to collaborate with Cross-Platform app development
 - 📫 How to reach me zobayerarmannadim@gmail.com
-- ⚡ Hobby: chess and listen music
+- ⚡ Hobby: chess and listen to music
